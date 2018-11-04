@@ -1,0 +1,12 @@
+{
+  "name": "Notice Board",
+  "description": "to combine 'PWA', 'React.js'",
+  "launch_path": "/",
+  
+  "developer": {
+    "name": "KwonWooChan",
+    "url": "https://github.com/KwonWooChan"
+  },
+  
+  "default_locale": "ko"
+}
